@@ -1,1 +1,1 @@
-# NewGitTest##Modifying and updating Git informationFirst, do a Clone to get the local copy## Code   git clone https://github.com/jkeithbworkin/NewGitTest.git## More HelpFor a list of GIT commands that work in PowerShell, type Git --help
+# NewGitTest##Modifying and updating Git informationFirst, do a Clone to get the local copy## Code   git clone https://github.com/jkeithbworkin/NewGitTest.git## More HelpFor a list of GIT commands that work in PowerShell, type Git --helpDelete this line
